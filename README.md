@@ -18,14 +18,14 @@
 - Here is my github REPO: https://github.com/barrycumbie/furry-guide <== put this in submission/assigment comments,
 
 # Minimum Acceptance Criteria 
-- [ ] get your code all nice and neat on your local dev box
-  - [ ] maybe make a new project folder: make new files and grab by code, grab your old css
-- [ ] add additional functionality regarding the user's name
-  - [ ] write a new js function (f/n) that interacts/manipulates the string 
-  - [ ] I mean a *new* one...don't just give me back the 2nd letter, or the 5th...c'mon 
-  - [ ] invoke/call the f/n
-  - [ ] display the message and result on the page
-- [ ] create a new REPO
-- [ ] get your code all up there 
+- [X ] get your code all nice and neat on your local dev box
+  - [ X] maybe make a new project folder: make new files and grab by code, grab your old css
+- [ X] add additional functionality regarding the user's name
+  - [X ] write a new js function (f/n) that interacts/manipulates the string 
+  - [X ] I mean a *new* one...don't just give me back the 2nd letter, or the 5th...c'mon 
+  - [X ] invoke/call the f/n
+  - [X ] display the message and result on the page
+- [X ] create a new REPO
+- [X ] get your code all up there 
 - [ ] submit a single link to an active page (github page)
-- [ ] tested & working 
+- [X ] tested & working 
